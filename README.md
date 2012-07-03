@@ -1,4 +1,4 @@
 HelloWorldPublic
 ================
 
-My Hello World for Public Repositories. s
+My Hello World for Public Repositories. s. foo
